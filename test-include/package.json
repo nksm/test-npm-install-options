@@ -1,0 +1,20 @@
+{
+  "name": "test-npm-install-options",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Test npm install omit and include options",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "optionalDependencies": {
+    "yaml": "^2.3.4"
+  }
+}
